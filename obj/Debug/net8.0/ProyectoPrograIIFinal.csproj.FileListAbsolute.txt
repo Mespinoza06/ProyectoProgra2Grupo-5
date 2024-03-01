@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\bin\Debug\net8.0\ProyectoPrograIIFinal.exe
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\bin\Debug\net8.0\ProyectoPrograIIFinal.deps.json
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\bin\Debug\net8.0\ProyectoPrograIIFinal.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\bin\Debug\net8.0\ProyectoPrograIIFinal.dll
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\bin\Debug\net8.0\ProyectoPrograIIFinal.pdb
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.dll
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\refint\ProyectoPrograIIFinal.dll
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.pdb
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ProyectoPrograIIFinal.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ProyectoPrograIIFinal\ProyectoPrograIIFinal\obj\Debug\net8.0\ref\ProyectoPrograIIFinal.dll
